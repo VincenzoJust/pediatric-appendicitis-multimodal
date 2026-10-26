@@ -1,0 +1,4 @@
+split,n_patients,n_appendicitis
+train,346,228
+val,116,77
+test,116,77

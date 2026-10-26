@@ -1,0 +1,8 @@
+model,param,value
+tab_lr,C,1.0
+img_lr,C,0.0001
+fused_lr,C,0.1
+tab_gb,n_estimators,200.0
+tab_gb,max_depth,2.0
+cbm,label_head_C,100.0
+cbm,concept_head_C,0.0001

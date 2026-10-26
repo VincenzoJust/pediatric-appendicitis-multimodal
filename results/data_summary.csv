@@ -1,0 +1,17 @@
+section,item,value
+funnel,patients in app_data.xlsx,782.0
+funnel,with Diagnosis,780.0
+funnel,with Diagnosis and US_Number,759.0
+funnel,cohort: + >=1 image,578.0
+images,image files in archive,2097.0
+images,distinct subject numbers in archive,707.0
+images,"archive subjects NOT in xlsx US_Number (unlabelled, unused)",128.0
+images,images in cohort,1721.0
+images,images/patient min,1.0
+images,images/patient median,2.0
+images,images/patient mean,2.98
+images,images/patient max,15.0
+balance,full dataset: appendicitis,463.0
+balance,full dataset: no appendicitis,317.0
+balance,cohort: appendicitis,382.0
+balance,cohort: no appendicitis,196.0
